@@ -126,6 +126,21 @@
   .navbar-header {
   	padding: 0px 30px;
   }
+  .avatar-dre {
+    width: 239px;
+    height: 238px;
+}
+  .dre-img img {
+    position: absolute;
+    top: 60px;
+    right: 105px;
+  }
+  .dre-area {
+    background-image: url(../img/Personnel/cover-image-jfp.png);
+    /* background-color: #dcdcdc; */
+    padding: 144px 0 180px;
+    min-height: 800px;
+}
   .le-navbar {
     background-color: rgb(255,255,255,1);
     height: 80px;
@@ -505,4 +520,5 @@
   #blog-post {
   	padding-top:90px;
   }
+}
 }
